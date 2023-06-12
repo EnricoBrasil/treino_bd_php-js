@@ -1,0 +1,53 @@
+body{
+    background:#d2dbe8 ;
+    font-family:Cambria;
+    text-decoration: none;
+   }
+   
+   .container{
+       align-items: center;
+       text-align: center;
+   }
+   
+   h1{
+      font-display: center;
+      color: #427eb9;
+   }
+   
+   
+   h3{
+       text-decoration: underline;
+       font-family:Cambria;
+       color: rgb(2, 54, 91);
+   }
+   
+   
+   .btnAluno {
+       width: 90px;
+       height: 30px;
+       cursor: pointer;
+       background: transparent;
+       border: 1px solid #91C9FF;
+       outline: none;
+       transition: 1s ease-in-out;
+     }
+     
+   .btnAluno:hover {
+       transition: 1s ease-in-out;
+       background: #4F95DA;
+     }
+     
+   .btnComent {
+       width: 90px;
+       height: 30px;
+       cursor: pointer;
+       background: transparent;
+       border: 1px solid #e9913a;
+       outline: none;
+       transition: 1s ease-in-out;
+   }
+     
+   .btnComent:hover {
+       transition: 1s ease-in-out;
+       background: #e9913a;
+     }
